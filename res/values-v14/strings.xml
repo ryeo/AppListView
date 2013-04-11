@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppListview</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Rihanna">Rihanna</string>
+    <string name="Album">Rihanna Love the way lie</string>
+    <string name="Song1">Just gona stand there and</string>
+    <string name="Song1_time">5:45</string>
+    <string name="arrow">arrow</string>
+</resources>
